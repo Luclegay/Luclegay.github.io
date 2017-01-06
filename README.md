@@ -2,6 +2,8 @@
 
 [Je dois commencer ici](https://help.github.com/articles/create-a-repo/ "mode d'emploi")
 
+[Ensuite ici pour les Guides](https://guides.github.com/)
+
 You can use the [editor on GitHub](https://github.com/Luclegay/Luclegay.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
