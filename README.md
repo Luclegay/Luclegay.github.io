@@ -1,8 +1,6 @@
 ## Bac à sable de Luc
 
-Je dois commencer ici :
-
-https://help.github.com/articles/create-a-repo/
+[Je dois commencer ici](https://help.github.com/articles/create-a-repo/ "mode d'emploi")
 
 You can use the [editor on GitHub](https://github.com/Luclegay/Luclegay.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
